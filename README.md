@@ -1,16 +1,21 @@
-## Hi there 👋
+# /home/edmundogarcia
 
-<!--
-**EdmundoGarcia/EdmundoGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome, stranger.
 
-Here are some ideas to get you started:
+```bash 
+$ whoami
+edmundogarcia
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final semester Computer Engineering student interested in Cloud Computing and DevOps.
+Right now, I am looking for a **Cloud**, **DevOps** or **SRE** internship.
+
+## Currently learning
+
+- AWS 
+
+
+## Let's keep in touch
+
+- [LinkedIn](https://www.linkedin.com/in/edmundo-garcia-valdes/)
+- Email: [garciavaldesedmundo@gmail.com](mailto:garciavaldesedmundo@gmail.com)
