@@ -1,19 +1,12 @@
 # /home/edmundogarcia
 
-## Welcome, stranger.
-
 ```bash 
 $ whoami
 edmundogarcia
 ```
 
-I am a final semester Computer Engineering student interested in Cloud Computing and DevOps.
-Right now, I am looking for a **Cloud**, **DevOps** or **SRE** internship.
-
-## Currently learning
-
-- AWS 
-
+I am a Computer Engineering student in my final semester.
+Currently learning AWS and looking for a **Cloud**, **DevOps** or **SRE** internship.
 
 ## Let's keep in touch
 
